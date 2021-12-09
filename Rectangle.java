@@ -5,7 +5,7 @@ class Rectangle extends Shape
 
 void area()
 {
-
+ 
 
 System.out.println(length*breadth);
 
